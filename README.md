@@ -1,2 +1,0 @@
-# RalphSinco
-Personal Resume
