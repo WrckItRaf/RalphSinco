@@ -5,3 +5,7 @@ static/
 public/*.json
 public/*.js
 src/
+build/
+dist/
+asset-manifest.json
+profile.json
